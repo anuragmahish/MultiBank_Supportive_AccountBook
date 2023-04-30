@@ -4,7 +4,6 @@ from tkinter import *
 from tkinter import messagebox
 from PIL import ImageTk
 
-
 # function to hide window
 def hide(window):
     window.withdraw()
